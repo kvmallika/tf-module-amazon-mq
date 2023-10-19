@@ -12,3 +12,4 @@ variable "port_no" {
 variable "kms_arn" {}
 variable "instance_type" {}
 variable "bastion_cidr_block" {}
+variable "domain_id" {}
